@@ -1,5 +1,5 @@
 ### Sophie Kolston
-GIS Student (soon to be Geospatial Advisor)
+GIS Student/Geospatial Software Developer
 
 Currently working on: Pollutant exposure while cycling & coastal modelling with deep learning
 
