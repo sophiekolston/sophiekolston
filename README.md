@@ -1,5 +1,7 @@
 ### Sophie Kolston
-Geospatial Software Developer
+GIS Student (soon to be Geospatial Advisor)
+
+Currently working on: Pollutant exposure while cycling & coastal modelling with deep learning
 
 Pronouns: she/her
 
