@@ -1,8 +1,6 @@
 ### Sophie Kolston (she/her)
-Research Assistant in GIS and Coastal Geomorphology
+Spatial data science researcher
 
-Currently working on: Pollutant exposure while cycling
-
-Future projects: Agent-based modelling of coastal environments
+Currently using agent-based modelling to explore emeregent behaviour of coastal communities in response to cliff erosion
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yozpoz64&hide=html,jupyter%20notebook&layout=compact&count_private=true)
