@@ -1,4 +1,4 @@
-### Sophie Kolston (she/her)
+### Sophie Kolston (she/they)
 Postgraduate geography student
 
 Currently using agent-based modelling to explore emergent behaviour of coastal communities in response to cliff erosion
